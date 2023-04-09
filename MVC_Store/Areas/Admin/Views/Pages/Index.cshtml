@@ -1,0 +1,102 @@
+﻿@model IEnumerable<MVC_Store.Models.ViewModels.Pages.PageVM>
+
+@{
+    ViewBag.Title = "Pages";
+}
+
+<br />
+<br />
+<h2>Pages</h2>
+<br />
+<p>
+    @Html.ActionLink("Create New Page", "AddPage", "", new { @class = "btn btn-success" })
+</p>
+
+
+
+@if (TempData["SM"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SM"]
+    </div>
+}
+
+
+@if (!Model.Any())
+{
+    <h1>class = "text-center">There are no pages</h1>
+
+}
+
+else
+{
+  
+    <table class="table sorting" id="pages">
+        <tr class="home">
+            <th>
+                Title
+            </th>
+            <th>
+                Slug
+            </th>
+            <th>
+                Sidebar
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            <!--- Отображниее скрипта-->
+            <tr id="id_@item.Id" class="@item.Slug">
+
+                <td>
+                    @if (item.Slug != "home")
+
+                    {
+                        <span class="ui-icon ui-icon-arrowthick"> </span>
+
+                    }
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Slug)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.HasSidebar)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditPage", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "PageDetails", new { id = item.Id })
+
+
+
+                    <!---Если SLug равен Hom, не показывать кнопку удаления -->
+                    @if (item.Slug != "home")
+                    {
+                        string slash = "| ";
+                        @slash;
+
+                        @Html.ActionLink("Delete", "DeletePage", new { id = item.Id }, new
+                        {
+                            @class = "delete"
+                   })
+                    }
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+
+
+@section Scripts
+{
+
+    <script src="~/Content/ShopJS/PagesIdexViewJS.js"></script>
+
+
+}

@@ -1,0 +1,59 @@
+<script>
+/********************Add to cart*********************/
+$(function () {
+    $("a.addtocart").click(function (e) {
+        e.preventDefault();
+
+        $("span.loader").addClass("ib");
+
+        var url = "/cart/AddToCartPartial";
+
+        $.get(url, { id: @Model.Id
+    }, function myfunction(data) {
+        $(".ajaxcart").html(data);
+        }).done(function () {
+            $("span.loader").removeClass("ib");
+            $("div.ajaxmsg").addClass("ib");
+
+            setTimeout(function () {
+                $("div.ajaxmsg").fadeOut("fast");
+                $("div.ajaxmsg").removeClass("ib");
+            }, 2000);
+        });
+    });
+});
+/****************************************************/
+</script>
+
+
+
+	
+*************************************************************************
+************************** /* Increment product */ **********************
+*************************************************************************
+$(function () {
+
+    $("a.incproduct").click(function (e) {
+        e.preventDefault();
+
+        var productId = $(this).data("id");
+        var url = "/cart/IncrementProduct";
+
+        $.getJSON(url, { productId: productId }, function (data) {
+            $("td.qty" + productId).html(data.qty);
+
+            var price = data.qty * data.price;
+            var priceHtml = "€" + price.toFixed(2);
+
+            $("td.total" + productId).html(priceHtml);
+
+            var gt = parseFloat($("td.grandtotal span").text())
+            var grandtotal = (gt + data.price).toFixed(2);
+
+            $("td.grandtotal span").text(grandtotal);
+        });
+    });
+});
+*************************************************************************
+*************************************************************************
+*************************************************************************

@@ -1,0 +1,375 @@
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Buffers.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Memory.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\PagedList.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\PagedList.xml
+C:\Users\SPRTK_\Desktop\Проекты\Технология MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\user\Desktop\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Buffers.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Memory.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\SPRTK_\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\user\Desktop\New folder\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\WebGrease.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+C:\Users\user\Desktop\С#\Projects.work\Tech.MVC5\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb

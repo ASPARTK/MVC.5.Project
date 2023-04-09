@@ -1,0 +1,82 @@
+<script>
+
+            /* Dropzone js*/
+
+        Dropzone.options.dropzoneForm = {
+            acceptedFiles: "image/*",
+            init: function () {
+                this.on("complete",
+                    function (file) {
+                        if (this.getUploadingFiles().length === 0 && this.getQueuedFiles().length === 0) {
+                            location.reload();
+                        }
+                    });
+                this.on("sending",
+                    function (file, xhr, formData) {
+                        formData.append("id",  @Model.Id);
+                    });
+            }
+        };
+
+        /*-----------------------------------------------------------*/
+
+            /* Delete gallery image */
+
+            $("a.deleteimage").click(function(e) {
+                e.preventDefault();
+
+                if (!confirm("Confirm deletion")) return false;
+
+                var $this = $(this);
+                var url = "/admin/shop/DeleteImage";
+                var imageName = $this.data("name");
+
+
+                $.post(url, { id: @Model.Id, imageName: imageName }, function(data) {
+                    $this.parent().parent().parent().fadeOut("slow");
+                });
+            });
+
+
+            /*-----------------------------------------------------------*/
+
+
+        </script>
+
+
+
+/*---------------------------------------------------*/
+/*---------------CSS Styles--------------------------*/
+/*---------------------------------------------------*/
+
+.galleryStyle {
+    margin: 15px;
+    height: 260px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.20), 0 10px 10px rgba(0,0,0,0.20);
+}
+
+.galleryStyle:hover {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    animation-name: example;
+    animation-duration: 0.25s;
+    border-left: 8px solid #737373;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+@keyframes example {
+    0% {
+        border-left: 2px solid #ffffff;
+    }
+    25% {
+        border-left: 3px solid #ffe6e6;
+    }
+    50% {
+        border-left: 4px solid #d6d6d6;
+    }
+    100% {
+        border-left: 5px solid #737373;
+    }
+}
+
+/*---------------------------------------------------*/
